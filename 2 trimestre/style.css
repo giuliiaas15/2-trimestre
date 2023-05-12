@@ -4,6 +4,29 @@
 }
 
 header{
-    background-color: white;
+    background-color: rgb(255, 244, 87);
     color: palevioletred;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+}
+
+
+main{
+    margin:auto;
+    width: 400px;
+}
+section{
+    margin: 16px;
+    font-size: 20px;
+}
+
+footer{
+    background-color:palevioletred;
+    color: rgb(255, 244, 87);
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    text-align: center;
+    font-size: 20px;
 }
